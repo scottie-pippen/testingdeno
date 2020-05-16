@@ -1,2 +1,0 @@
-# testingdeno
-Begin app
